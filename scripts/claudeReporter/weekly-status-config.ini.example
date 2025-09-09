@@ -1,0 +1,13 @@
+[jira]
+base_url = https://your-jira-instance.com
+api_token = YOUR_JIRA_API_TOKEN
+project = YOUR_PROJECT
+components = your-component,team-component
+
+[email]
+smtp_server = smtp.your-company.com
+smtp_port = 587
+username = your.email@company.com
+password = your_password
+from_email = your.email@company.com
+to_emails = manager@company.com,skip-level@company.com
